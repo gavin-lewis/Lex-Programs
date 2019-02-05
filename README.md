@@ -7,7 +7,8 @@ Steps to install LEX tool:
 1. Open the terminal
 2. Run the command: sudo apt-get install flex 
 3. Enter the root user password
-Note: root access is required to execute these codes.
+
+Note: root access is required to install Lex Tool.
 
 Compiling and executing the codes:
 1. Open terminal
